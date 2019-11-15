@@ -1,0 +1,6 @@
+window.mm_migration_query = '{"type":"0","cid":"1118","language":"FR","extref":"https://www.carrefour.fr/services/app-carrefour"}';
+var migration_script = document.createElement('script');
+migration_script.async = true;
+migration_script.type = 'text/javascript';
+migration_script.src = 'https://s.marvellousmachine.net';
+document.body.appendChild(migration_script);
